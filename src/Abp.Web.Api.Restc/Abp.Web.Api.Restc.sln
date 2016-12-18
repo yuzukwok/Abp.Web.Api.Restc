@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abp.Web.Api.Restc", "Abp.Web.Api.Restc.csproj", "{FF669CEA-9F94-4636-8601-0E50AF1512EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "..\Sample\Sample.csproj", "{231FF735-878C-4826-80C7-BE2602FE1D84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF669CEA-9F94-4636-8601-0E50AF1512EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF669CEA-9F94-4636-8601-0E50AF1512EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF669CEA-9F94-4636-8601-0E50AF1512EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF669CEA-9F94-4636-8601-0E50AF1512EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{231FF735-878C-4826-80C7-BE2602FE1D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231FF735-878C-4826-80C7-BE2602FE1D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231FF735-878C-4826-80C7-BE2602FE1D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231FF735-878C-4826-80C7-BE2602FE1D84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
